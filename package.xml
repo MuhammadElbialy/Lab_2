@@ -27,6 +27,10 @@
   <!-- Example: -->
   <!-- <author email="jane.doe@example.com">Jane Doe</author> -->
 
+<build_depend>actionlib_msgs</build_depend>
+<build_export_depend>actionlib_msgs</build_export_depend> 
+<exec_depend>actionlib_msgs</exec_depend>
+
 
   <!-- The *depend tags are used to specify dependencies -->
   <!-- Dependencies can be catkin packages or system dependencies -->
